@@ -4,5 +4,10 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "90fec66b",
   "uiCommonVersion": "5.1.2",
-  "creatorId": "gdlampar"
+  "creatorId": "gdlampar",
+  "id": "mantisamadeus",
+  "previewImageURL": "/previews/90fec66b-mantisamadeus/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/gdlampar/MantisAmadeus",
+  "creatorName": "Amadeus Pardo"
 }
